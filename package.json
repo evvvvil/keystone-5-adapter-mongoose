@@ -8,7 +8,7 @@
     "node": ">=10.0.0"
   },
   "dependencies": {
-    "@keystonejs/fields-mongoid": "^9.2.2",
+    "@keystonejs/fields-mongoid": "https://github.com/evvvvil/keystone-5-fields-mongoid/tarball/main",
     "@keystonejs/keystone": "^19.3.3",
     "@keystonejs/utils": "^6.1.2",
     "cuid": "^2.1.8",
